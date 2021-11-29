@@ -19,7 +19,21 @@
         }
       ]
     },
+    "reward_item": {
+      "units": [
+        {
+          "ad_network": "admob"
+        }
+      ]
+    },
     "native_home": {
+      "units": [
+        {
+          "ad_network": "admob"
+        }
+      ]
+    },
+    "native_download": {
       "units": [
         {
           "ad_network": "admob"
@@ -77,13 +91,6 @@
       "short_des": "You can design your own costume, weapon skin with this our application. Try it free now.",
       "icon": "https://play-lh.googleusercontent.com/9_XIWAybY1fChjpVdxmbK9gBsw95pDI_oChongjtGH-lYFwtB4GTVrnahvx4xmdeQ3w=s180-rw",
       "cover": "https://play-lh.googleusercontent.com/QZyw7VedPUtSW8YxSqEo43jty0EtmRfKl2v6KTkqwXdtWLvA9JZJ38EvICd63TIAeCA"
-    },
-    {
-      "app_name": "Skin Tools",
-      "package_name": "com.hachi.free.skin.tools.textura.ff",
-      "short_des": "Unlimited skin and weapons for your hero and have fun with Skin Tools for FF",
-      "icon": "https://play-lh.googleusercontent.com/Y2dDueHoQm1YlDSqOoMFqKOlxZaK9eL8UymlxVxUEq8_pV6HtXcCUatvfknIZ0DFLQ=s180-rw",
-      "cover": "https://play-lh.googleusercontent.com/wTP6q_4T5KSGgNEE8ybqbe0XVoIh5Q2-zd9OJHGGrp9KiilY-wLaqeTrt0MFd2VKpRdg"
     },
     {
       "app_name": "New Skin Tools",
