@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 30
   },
   "ad_units": {
@@ -16,7 +16,8 @@
     "full_splash": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "enable": false
         }
       ]
     },
